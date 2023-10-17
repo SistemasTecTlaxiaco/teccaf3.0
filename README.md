@@ -49,7 +49,7 @@ Si está realizando cambios en la interfaz, puede iniciar un servidor de desarro
 npm start
 ```
 
-Lo que iniciará un servidor en `http://localhost:8080`, enviando solicitudes de API a la réplica en el puerto 4943.port 4943.
+Lo que iniciará un servidor en `http://localhost:8080`, enviando solicitudes de API a la réplica en el puerto 4943.
 
 ### Nota sobre las variables de entorno frontend
 
